@@ -1,0 +1,9 @@
+beautifulsoup4
+db
+db-sqlite3
+numpy
+pandas
+Flask
+SQLAlchemy
+scikit-learn
+gunicorn
